@@ -12,7 +12,7 @@
 
 # 工程图集
 
-- 70本浙江省标图集+16G101等9本通用图集[百度云下载链接](https://pan.baidu.com/s/1_zxjdvIX3RR2NL86btV1WQ)  密码:7ow3
+- 70本浙江省标图集+16G101等9本通用图集[百度云下载链接](https://pan.baidu.com/s/1a9t7H5ahF-oqs_r19qg_EQ)  密码:hdql
 
 # CAD字体
 
